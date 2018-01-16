@@ -28,20 +28,21 @@
     ]
   },
   "interests": [
-    {
-      "name": "internet of things",
+    { 
+      "name": "Robotics",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "FIRST",
+        "FRC", 
+        "VEX"
       ]
     },
     {
-      "name": "data mining",
+      "name": "App Development",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Virtual Reality",
       "keywords": [
       ]
     }
