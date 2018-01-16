@@ -2,7 +2,7 @@
   "basics": {
     "name": "Glesa Mae Tolentino",
     "label": "Student",
-    "picture": "https://raw.githubusercontent.com/g-tolentino/g-tolentino.github.io/master/images/profilePicSquare.jpg",
+    "picture": "https://g-tolentino.github.io/master/images/profilePicSquare.jpg",
     "email": "gmtolent@hawaii.edu",
     "phone": "808-269-4028",
     "website": "https://g-tolentino.github.io",
@@ -22,18 +22,8 @@
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
-      },
-      {
-        "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
-      },
-      {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "username": "glesatolentino",
+        "url": "www.linkedin.com/in/glesatolentino"
       }
     ]
   },
@@ -64,9 +54,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
