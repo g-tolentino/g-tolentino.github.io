@@ -19,6 +19,7 @@ During the 2017 Fall semester, my partner, Jacob Somera and I developed an Andro
     <img class="ui image" src="../images/tippy-3.jpg">
     <img class="ui image" src="../images/tippy-1.png">
   </div>
+  <figcaption>)Early stage of the app. 2)Final OCR view.</figcaption>
 </center>
 
 <img class="ui medium right floated rounded image" src="../images/tippy-2.png">
