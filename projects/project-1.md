@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Android_Studio.png
+image: images/android-app.jpg
 title: Tippy the Tip Calculator
 permalink: projects/tippy
 # All dates must be YYYY-MM-DD format!
@@ -20,6 +20,8 @@ I was in charge of understanding and learning about the OCR library. With the OC
 
 While I was working with the OCR, my partner was in charge of creating the user interface for the app. When we got everything working, the next difficult task that we needed to complete was combining OCR to his interface and making sure that the result from the OCR was passed to the “$ Paid” edit text box. To activate the OCR, the camera button on the right would have to be clicked. This was achieved by creating an “intent” and calling the activity that runs the OCR. To pass the OCR result, we were able to pass the public variables and functions in the Main activity to the OCR activity. At the end of the semester, we presented our app to other students who were a part of the Android App and Arduino projects.
 
-  <img class="ui medium middle floated rounded image" src="../images/tippy-1.png">
-  
-  <img class="ui medium center floated rounded image" src="../images/tippy-2.png">
+<center>
+  <img class="ui medium rounded image" src="../images/tippy-1.png">
+  <img class="ui medium rounded image" src="../images/tippy-2.png">
+</center>  
+
