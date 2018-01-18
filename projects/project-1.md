@@ -12,10 +12,10 @@ labels:
 summary: Developed an Android app that captures a picture of the user’s receipt, parses the total, and uses it to calculate the tip.
 ---
 
-<div class="ui small rounded images">
+# <div class="ui small rounded images">
   <img class="ui image" src="../images/tippy-1.png">
   <img class="ui image" src="../images/tippy-2.jpg">
-</div>
+# </div>
 
 During the 2017 Fall semester, my partner, Jacob Somera and I developed an Android app that calculated the tip of a customer’s bill. In addition, the app was able to dynamically calculate the tip based on a percentage that was chosen and determine how much each person in the group would have to pay. A special feature that we included in our app was the ability to take a picture of the total on the bill instead of having the user input the total. To implement this feature, we used an OCR library. 
 
