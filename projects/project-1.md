@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: images/Android_Studio.png
 title: Tippy the Tip Calculator
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
@@ -9,7 +9,7 @@ date: 2017-12-12
 labels:
   - Android Studio
   - Java
-summary: •	Developed an Android app that captures a picture of the user’s receipt, parses the total, and uses it to calculate the tip.
+summary: Developed an Android app that captures a picture of the user’s receipt, parses the total, and uses it to calculate the tip.
 ---
 
 <div class="ui small rounded images">
