@@ -79,7 +79,7 @@
       "institution": "University of Hawaii Manoa, Honolulu, HI",
       "area": "Computer Engineering (expected Spring, 2019)",
       "studyType": "B.S.",
-      "startDate": "Fall 2016",
+      "startDate": "2016-08",
       "endDate": "Present",
       "gpa": "3.33",
       "courses": [
@@ -93,8 +93,8 @@
       "institution": "University of Hawaii Maui College, Kahului, HI",
       "area": "Liberal Arts (graduation Spring, 2016)",
       "studyType": "A.A.",
-      "startDate": "Fall 2014",
-      "endDate": "Spring 2016",
+      "startDate": "2014-08",
+      "endDate": "2016-05",
       "gpa": "3.64",
       "courses": [ 
         "Intro to Computer Science I"
@@ -106,8 +106,8 @@
       "company": "Maui Economic Development Board Inc. (MEDB)",
       "position": "IT Support",
       "website": "",
-      "startDate": "January 2015",
-      "endDate": "August 2017",
+      "startDate": "2015-01",
+      "endDate": "2017-08",
       "summary": "Provided IT support for STEM education outreach programs",
       "highlights": [
       ]
@@ -116,8 +116,8 @@
       "company": "Maui High School",
       "position": "Academic Tutor",
       "website": "",
-      "startDate": "November 2014",
-      "endDate": "June 2016",
+      "startDate": "2014-11",
+      "endDate": "2016-06",
       "summary": "Tutored students in the Advancement Via Individual Determination (AVID) and Holomua programs.",
       "highlights": [
       ]
@@ -128,8 +128,8 @@
       "organization": "MEDB Women In Technology",
       "website": "http://www.womenintech.com/programs/excite-camp%E2%80%A8%E2%80%A8/",
       "position": "Excite Camp Mentor",
-      "startDate": "Summer 2015",
-      "endDate": "Summer 2016",
+      "startDate": "2015-05",
+      "endDate": "2016-07",
       "summary": "Educate as well as expose middle school students to science, technology, engineering and math (STEM) careers.",
       "highlights": [
       ]
