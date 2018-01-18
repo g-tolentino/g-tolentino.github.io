@@ -2,10 +2,10 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Shaka Scheme Interpreter
+permalink: projects/shakascheme
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2017-05-10
 labels:
   - Javascript
   - Meteor
