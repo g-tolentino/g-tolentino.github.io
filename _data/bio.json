@@ -83,6 +83,10 @@
       "endDate": "Present",
       "gpa": "3.33",
       "courses": [
+        "Digital Systems and Computer Design",
+        "Discrete Mathematics",
+        "Linear Algebra and Differential Equations",
+        "Object Oriented Programming"
       ]
     },
     {
@@ -92,7 +96,8 @@
       "startDate": "Fall 2014",
       "endDate": "Spring 2016",
       "gpa": "3.64",
-      "courses": [
+      "courses": [ 
+        "Intro to Computer Science I"
       ]
     }
   ],
