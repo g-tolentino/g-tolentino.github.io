@@ -2,15 +2,14 @@
 layout: project
 type: project
 image: images/micromouse.jpg
-title: Micromouse
+title: Tippy the Tip Calculator
 permalink: projects/micromouse
 # All dates must be YYYY-MM-DD format!
-date: 2015-07-01
+date: 2017-12-12
 labels:
-  - Robotics
-  - Arduino
-  - C++
-summary: My team developed a robotic mouse that won first place in the 2015 UH Micromouse competition.
+  - Android Studio
+  - Java
+summary: •	Developed an Android app that captures a picture of the user’s receipt, parses the total, and uses it to calculate the tip.
 ---
 
 <div class="ui small rounded images">
@@ -20,11 +19,11 @@ summary: My team developed a robotic mouse that won first place in the 2015 UH M
   <img class="ui image" src="../images/micromouse-circuit.png">
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+During the 2017 Fall semester, my partner, Jacob Somera and I developed an Android app that calculated the tip of a customer’s bill. In addition, the app was able to dynamically calculate the tip based on a percentage that was chosen and determine how much each person in the group would have to pay. A special feature that we included in our app was the ability to take a picture of the total on the bill instead of having the user input the total. To implement this feature, we used an OCR library. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+I was in charge of understanding and learning about the OCR library. With the OCR library, we were able to use its activities to take a picture of the total and obtain a string of the result. In the early stages of our app, I used this string to parse the total into a double. Using this double, I then calculated the total tip and displayed the results. 
 
-Here is some code that illustrates how we read values from the line sensors:
+While I was working with the OCR, my partner was in charge of creating the user interface for the app. When we got everything working, the next difficult task that we needed to complete was combining OCR to his interface and making sure that the result from the OCR was passed to the “$ Paid” edit text box. To activate the OCR, the camera button on the right would have to be clicked. This was achieved by creating an “intent” and calling the activity that runs the OCR. To pass the OCR result, we were able to pass the public variables and functions in the Main activity to the OCR activity. At the end of the semester, we presented our app to other students who were a part of the Android App and Arduino projects.
 
 ```js
 byte ADCRead(byte ch)
