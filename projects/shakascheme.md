@@ -5,7 +5,7 @@ image: images/repository.lambda.jpg
 title: Shaka Scheme Interpreter
 permalink: projects/shakascheme
 # All dates must be YYYY-MM-DD format!
-date: 2017-05-10
+date: 2017-01-11
 labels:
   - C++
   - GitHub
