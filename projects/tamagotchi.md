@@ -14,48 +14,16 @@ summary: A text adventure game I developed for ICS 313.
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+When I was young, I remember Tamagotchi being the hottest toy around. I never owned one, but my cousins did, so I would “tamagotchi sit” theirs. As soon as I found out that one of our final projects for EE205 was to recreate Tamagotchi, I started to brainstorm how to implement what we learned in class to the project. 
 
-To give you a flavor of the game, here is an excerpt from one run:
+The first thing we did was to figure out the different types of actions you can do with the Tamagotchi. The user could feed, play a game, clean, give medicine, control the lights, and check the Tamagotchi’s health and information. For our feed function, we ask the user to choose between a meal or a snack. The game we programmed for the Tamagotchi was a guessing game. The user would guess which way the Tamagotchi was facing, either left or right. If the user won three or more times, it would increase the Tamagotchi’s happiness. The clean function would get rid of the poop that the Tamagotchi created. If the user does not clean it up in time, the Tamagotchi gets sick. To heal the Tamagotchi, the medicine function would determine how much medicines or injections the user would need to give to the Tamagotchi to make it all better. These actions turned out to be functions in our main Tamagotchi class. 
 
-<hr>
+The next thing we did was create classes that were inherited from our main class. For the feed function, we decided that each Tamagotchi age group should have their own feed function. So, each age group would have a different meal and snack that the user could choose from. These meals and snacks would also affect the weight of the tamagotchi and maybe increase its happiness. We also added visuals to our Tamagotchi game. There is a main menu and each age group has a different Tamagotchi character. 
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+Although we have the main functions completed, we still need to test our random events function and  complete the main driver for our Tamagotchi game. Based on the age group, the random events function controls the Tamagotchi’s health levels,  how it feels, and what it does. For example, a baby Tamagotchi would eat, poop, and sleep more compared to an adult Tamagotchi. For the main driver, I am currently trying to figure out how to run the random events function while the user is making their decision on what to do with the Tamagotchi. We also need to go back into our code and double check that everything is working correctly and getting rid of any bugs. For example, the user should not be able to feed the Tamagotchi when it's sleeping. 
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
+Overall, there is still many features that we still need to finish and test, but once we get them working, our Tamagotchi game will be ready for presentation. The one thing I like about this project is that each group is able to add their own creativity and features to their Tamagotchi game. It will be interesting to see what each group created. This also gives other groups ideas on new features they can add to their Tamagotchi games.
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
 
 Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
 
