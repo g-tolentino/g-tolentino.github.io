@@ -19,11 +19,9 @@ Being a part of this project helped me better understand programming languages a
 
 Source: <a href="https://github.com/uhmanoa-transpiler-project/shaka-scheme"><i class="large github icon "></i>uhmanoa-transpiler-project/shaka-scheme</a>
 
-<center>
   <div class="ui medium rounded images">
     <img class="ui image" src="../images/shakascheme-1.png">
     <img class="ui image" src="../images/shakascheme-2.png">
     <img class="ui image" src="../images/shakascheme-4.png">
   </div>
   <figcaption>Rule and test case for variable.</figcaption>
-</center>
