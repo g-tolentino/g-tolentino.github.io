@@ -2,12 +2,12 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: Tamagotchi
+permalink: projects/tamagotchi
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2017-04-15
 labels:
-  - Lisp
+  - C++
   - GitHub
 summary: A text adventure game I developed for ICS 313.
 ---
