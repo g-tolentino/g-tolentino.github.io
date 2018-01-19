@@ -28,11 +28,11 @@ The one thing I liked about this project is that each group was able to add thei
     <img class="ui image" src="../images/tama-4.PNG">
     <img class="ui image" src="../images/tama-5.PNG">
     <img class="ui image" src="../images/tama-sleep.PNG">
-    <img class="ui image" src="../images/tama-food.PNG">
-    <img class="ui image" src="../images/tama-game.PNG">
     <img class="ui image" src="../images/tama-left.PNG">
-    <img class="ui image" src="../images/tama-save.PNG">
+    <img class="ui image" src="../images/tama-game.PNG">
     <img class="ui image" src="../images/tama-scold.PNG">
+    <img class="ui image" src="../images/tama-food.PNG">
+    <img class="ui image" src="../images/tama-save.PNG">
   </div>
 </center>
 
