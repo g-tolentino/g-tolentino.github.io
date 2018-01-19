@@ -7,11 +7,10 @@ permalink: projects/shakascheme
 # All dates must be YYYY-MM-DD format!
 date: 2017-05-10
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
+  - C++
   - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Google Test
+summary: Created rules and test cases for variable and boolean for a Scheme interpreter. 
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
