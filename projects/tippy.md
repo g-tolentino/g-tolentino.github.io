@@ -5,7 +5,7 @@ image: images/android-app.jpg
 title: Tippy the Tip Calculator
 permalink: projects/tippy
 # All dates must be YYYY-MM-DD format!
-date: 2017-12-12
+date: 2017-08-21
 labels:
   - Android Studio
   - Java
