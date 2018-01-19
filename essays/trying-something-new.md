@@ -13,7 +13,7 @@ labels:
 To me, figuring out what you love to do and pursing it as a career is one of the most challenging tasks that we all must overcome. Throughout high school, I took and was part of a variety of electives and clubs, which included: Japanese club, digital media, graphic design, design tech, and robotics, hoping that one of these subjects or extracurricular activity would spark my interest. Out of all the electives and activities I was a part of, robotics was one that I stuck with throughout high school. 
 
 <center>
-  <div class="ui medium rounded images">
+  <div class="ui medium right floated rounded image">
     <img class="ui image" src="../images/first.jpg">
   </div>
 </center>
