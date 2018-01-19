@@ -9,7 +9,7 @@ date: 2017-04-15
 labels:
   - C++
   - GitHub
-summary: A text adventure game I developed for ICS 313.
+summary: Tamagotchi game I developed for EE205. 
 ---
 
 When I was young, I remember Tamagotchi being the hottest toy around. I never owned one, but my cousins did, so I would “tamagotchi sit” theirs. As soon as I found out that one of our final projects for EE205 was to recreate Tamagotchi, I started to brainstorm how to implement what I learned about object oriented programming to the project. 
