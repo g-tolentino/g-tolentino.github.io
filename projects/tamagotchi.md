@@ -12,7 +12,7 @@ labels:
 summary: A text adventure game I developed for ICS 313.
 ---
 
-<center>
+<center> </center>
   <div class="ui small rounded images">
     <img class="ui image" src="../images/tama-1.PNG">
     <img class="ui image" src="../images/tama-2.PNG">
@@ -20,7 +20,7 @@ summary: A text adventure game I developed for ICS 313.
     <img class="ui image" src="../images/tama-4.PNG">
     <img class="ui image" src="../images/tama-5.PNG">
   </div>
-</center>
+
 
 When I was young, I remember Tamagotchi being the hottest toy around. I never owned one, but my cousins did, so I would “tamagotchi sit” theirs. As soon as I found out that one of our final projects for EE205 was to recreate Tamagotchi, I started to brainstorm how to implement what I learned about object oriented programming to the project. 
 
