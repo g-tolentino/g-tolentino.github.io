@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cotton-square.png
+image: images/tama-icon.png
 title: Tamagotchi
 permalink: projects/tamagotchi
 # All dates must be YYYY-MM-DD format!
