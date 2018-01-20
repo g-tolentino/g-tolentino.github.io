@@ -24,6 +24,8 @@ function programmingInJavaScript() {
 }
 </pre>
 
+<img class="ui medium right floated rounded image" src="../images/FlippedClassroom.jpg">
+
 ## A New Style of Learning
 In addition to learning a new language, I was also exposed to a new way of teaching and learning. In a typical course you're listening to the professor lecture and after class, you're given homework to see if you understood what was taught in the past hour. In ICS 314: Introduction to Software Engineering, we were introduced to "athletic software engineering". Here, the class is "flipped". Before class, we are given videos of the professor lecture and articles to read. In class, we do activities that reinforce what we learned through the videos and articles. Having the class organized this way, were given the opportunity to come to class prepared with questions to ask the professor. 
 
