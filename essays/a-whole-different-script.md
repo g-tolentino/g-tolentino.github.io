@@ -39,10 +39,18 @@ One of the activities that we do in class are "workout of the day" or WODs. For 
 <pre>
 	function jabbyWabby() {
 		for(i = 1; i < 100; i++) {
-			if((i%4 == 0) && (i%6 == 0)) { console.log("JabbyWabby"); }
-			else if(i%4 == 0) { console.log("Jabby"); }
-			else if(i%6 == 0) { console.log("Wabby"); }
-			else { console.log(i); }
+			if((i%4 == 0) && (i%6 == 0)) { 
+				console.log("JabbyWabby"); 
+			}
+			else if(i%4 == 0) { 
+				console.log("Jabby"); 
+			}
+			else if(i%6 == 0) { 
+				console.log("Wabby"); 
+			}
+			else { 
+				console.log(i); 
+			}
 		}
 		return;
 	}
