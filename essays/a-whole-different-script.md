@@ -51,10 +51,8 @@ One of the activities that we do in class are "workout of the day" or WODs. For 
 			else { 
 				console.log(i); 
 			}
-		}
-		return;
+		} return;
 	}
-
 	jabbyWabby();
 </pre>
 
