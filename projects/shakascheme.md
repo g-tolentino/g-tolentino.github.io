@@ -23,4 +23,4 @@ Being a part of this project helped me better understand programming languages a
 
 Source: <a href="https://github.com/uhmanoa-transpiler-project/shaka-scheme"><i class="large github icon "></i>uhmanoa-transpiler-project/shaka-scheme</a>
 
-  <div class="ui medium rounded images"> </div>
+  <div class="ui medium right rounded images"> </div>
