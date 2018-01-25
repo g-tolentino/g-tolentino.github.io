@@ -14,7 +14,7 @@ summary: Created rules and test cases for variable and boolean for a Scheme inte
 ---
 
 
-    <img class="ui relative medium right floated rounded image" src="../images/shakascheme-1.png">
+    <img class="ui absolute medium right floated rounded image" src="../images/shakascheme-1.png">
 
     <img class="ui relative medium right floated rounded image" src="../images/shakascheme-2.png">
 
