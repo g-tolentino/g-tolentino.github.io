@@ -13,17 +13,13 @@ labels:
 summary: Created rules and test cases for variable and boolean for a Scheme interpreter. 
 ---
 
-<div class = "relative">
-  <div class="absolute">
+
     <img class="ui medium right floated rounded image" src="../images/shakascheme-1.png">
-  </div>
-  <div class="absolute">
+
     <img class="ui medium right floated rounded image" src="../images/shakascheme-2.png">
-  </div>
-  <div class="absolute">
+
     <img class="ui medium right floated rounded image" src="../images/shakascheme-4.png">
-  </div>
-</div>
+
 
 Entering this project, I had very little experience with programming. So I decided to join the Design/Testing team. We started the semester by researching regular language and Backus-Naur Form (BNF). After a couple of weeks of research and trying to understand BNF and regular language, I was moved to the Parsing/IO team. As part of the Parsing/IO team, I used what I learned about BNF and regular language to parse code and create rules for variable and boolean. In addition to coding rules for variable and boolean, I created test cases with Google Test to make sure my rules were producing the correct results.  
 
