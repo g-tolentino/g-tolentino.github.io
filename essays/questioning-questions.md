@@ -18,9 +18,12 @@ When looking at questions on StackOverflow, the first thing users see is a list 
 In addition to the subject header and description, the responses demonstrate if their question captured the interest of fellow software engineers. The comments in figure 1 show what the post is missing. They asks for an attempt, provide resources that can be easily found in a search engine, and keywords to search for solutions. Figure 1 also shows that their main issue is syntax, which should have been included in their description. In figure 2, the answers include examples of code and detailed explanations. This shows their interest in the question and wanting to help the person understand the problem.  
 
 <center>
-    <img class="ui medium rounded images" src="../images/BadQ.PNG"> 
-    <figcaption>1) Figure 1: Bad Question Example</figcaption>
-    <img class="ui medium rounded images" src="../images/GoodQ.PNG"> 
+    <img class="ui medium floated rounded image" src="../images/BadQ.PNG"> 
+    <figcaption>1) Figure 1: Bad Question Example
+  
+    </figcaption>
+  
+    <img class="ui medium floated rounded image" src="../images/GoodQ.PNG"> 
     <figcaption>2) Figure 2: Good Question Example </figcaption>
 </center>
 
@@ -28,6 +31,8 @@ In addition to the subject header and description, the responses demonstrate if 
 “How to Ask Questions the Smart Way” made me think about a question that I posted a while back. When I ran my code, I ended up with “segmentation fault.” I could not figure out the problem, so I posted my 100+ lines of code on StackOverflow only to get a comment saying I had a bad question. This resulted in me deleting my question. This article also emphasizes that there are software engineers who are answering questions on their own time and for free. Having smart questions will be a win-win situation for you and the people who want to answer your question. You have a better understanding of your problem and they had a problem that made them think. 
 
 [1] Article: <a href="http://www.catb.org/esr/faqs/smart-questions.html#intro"></i>How To Ask Questions The Smart Way</a>
+
 Figure 1: <a href="https://stackoverflow.com/questions/48010181/hello-everyone-i-need-help-i-would-like-to-know-how-to-make-some-few-exercises"></i>Bad Question Example</a>
+
 Figure 1: <a href="https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value"></i>Good Question Example</a>
 
