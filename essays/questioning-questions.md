@@ -17,8 +17,10 @@ In addition to the subject header and description, the responses demonstrate if 
 
 <center>
   <div class="ui medium rounded images">
-    <img class="ui image" src="../images/BadQ.PNG"> <figcaption>1) Figure 1: Bad Question Example</figcaption>
-    <img class="ui image" src="../images/GoodQ.PNG"> <figcaption>2) Figure 2: Good Question Example </figcaption>
+    <img class="ui image" src="../images/BadQ.PNG"> 
+    <figcaption>1) Figure 1: Bad Question Example</figcaption>
+    <img class="ui image" src="../images/GoodQ.PNG"> 
+    <figcaption>2) Figure 2: Good Question Example </figcaption>
   </div>
 </center>
 
