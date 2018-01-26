@@ -15,3 +15,11 @@ When looking at questions on StackOverflow, the first thing users see is a list 
 
 In addition to the subject header and description, the responses demonstrate if their question captured the interest of fellow software engineers. The comments in figure 1 show what the post is missing. They asks for an attempt, provide resources that can be easily found in a search engine, and keywords to search for solutions. Figure 1 also shows that their main issue is syntax, which should have been included in their description. In figure 2, the answers include examples of code and detailed explanations. This shows their interest in the question and wanting to help the person understand the problem.  
 
+<center>
+  <div class="ui medium rounded images">
+    <img class="ui image" src="../images/GoodQ.PNG">
+    <img class="ui image" src="../images/BadQ.PNG">
+  </div>
+  <figcaption>1)Figure 1: Bad Question Example    2)Figure 2: Good Question Example
+</center>
+
