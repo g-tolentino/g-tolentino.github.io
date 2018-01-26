@@ -27,9 +27,9 @@ In addition to the subject header and description, the responses demonstrate if 
 ## Reflecting 
 “How to Ask Questions the Smart Way” made me think about a question that I posted a while back. When I ran my code, I ended up with “segmentation fault.” I could not figure out the problem, so I posted my 100+ lines of code on StackOverflow only to get a comment saying I had a bad question. This resulted in me deleting my question. This article also emphasizes that there are software engineers who are answering questions on their own time and for free. Having smart questions will be a win-win situation for you and the people who want to answer your question. You have a better understanding of your problem and they had a problem that made them think. 
 
-[1] Article: <a href="http://www.catb.org/esr/faqs/smart-questions.html"><How To Ask Questions The Smart Way</a>
+[1] Article: <a href="http://www.catb.org/esr/faqs/smart-questions.html">How To Ask Questions The Smart Way</a>
 
-Figure 1: <a href="https://stackoverflow.com/questions/48010181/hello-everyone-i-need-help-i-would-like-to-know-how-to-make-some-few-exercises"><Bad Question Example</a>
+Figure 1: <a href="https://stackoverflow.com/questions/48010181/hello-everyone-i-need-help-i-would-like-to-know-how-to-make-some-few-exercises">Bad Question Example</a>
 
-Figure 1: <a href="https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value"><Good Question Example</a>
+Figure 1: <a href="https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value">Good Question Example</a>
 
