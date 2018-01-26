@@ -31,5 +31,5 @@ In addition to the subject header and description, the responses demonstrate if 
 
 Figure 1: <a href="https://stackoverflow.com/questions/48010181/hello-everyone-i-need-help-i-would-like-to-know-how-to-make-some-few-exercises">Bad Question Example</a>
 
-Figure 1: <a href="https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value">Good Question Example</a>
+Figure 2: <a href="https://stackoverflow.com/questions/40480/is-java-pass-by-reference-or-pass-by-value">Good Question Example</a>
 
