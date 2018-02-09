@@ -9,6 +9,7 @@ labels:
   - ESLint
   - IntelliJ
 ---
+
 ## Coding Standards
 
 <img class="ui medium right floated image" src="../images/eslint.jpg">
