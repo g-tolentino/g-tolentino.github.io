@@ -28,6 +28,8 @@ For the past week, I've been using ESLint with IntelliJ. ESLint is a tool that w
 <img class="ui large image" src="../images/errorEOF.PNG">
 </center>
 
+
+
 As I continued to use ESLint with IntelliJ, I knew what would cause some of the errors to appear. So I was able to remember what I needed to do in order to fix those errors as I typed out my code. After fixing those errors, I was awarded with the green checkmark at the top corner of my JavaScript file.
 
 Coding standards should be emphasized and practiced in every coding class. Having uniformed code will not only help other people understand your code, but it will also help you become more organized and a better software engineer.
