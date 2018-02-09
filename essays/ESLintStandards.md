@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ESLint\: Expected better code
+title: ESLint &#58 Expected better code
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-08
 labels:
@@ -24,7 +24,9 @@ Coding standards are guidelines that outline programming styles and practices th
 
 For the past week, I've been using ESLint with IntelliJ. ESLint is a tool that will identify and report patterns found in JavaScript while you're typing code into IntelliJ. These reports are shown as errors when you're not following coding standards for JavaScript. Although these are errors, you will still be able to run your code, but code stained with red errors is not a pretty sight. Starting out, I had many errors and it was a pain to figure out what those errors meant and how to fix them. For example, if you do not include an empty line at the end of your code, you will receive the following error below:
 
-<img class="ui large center image" src="../images/errorEOF.PNG">
+<center>
+<img class="ui large image" src="../images/errorEOF.PNG">
+</center>
 
 As I continued to use ESLint with IntelliJ, I knew what would cause some of the errors to appear. So I was able to remember what I needed to do in order to fix those errors as I typed out my code. After fixing those errors, I was awarded with the green checkmark at the top corner of my JavaScript file.
 
