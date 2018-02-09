@@ -5,9 +5,9 @@ title: Standards
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-08
 labels:
-  -Coding Standards
-  -ESLint
-  -IntelliJ
+  - Coding Standards
+  - ESLint
+  - IntelliJ
 ---
 ## Coding Standards
 Have you ever tried debugging, updating, or contributing to someone else's code but could not follow along or decipher it? Or maybe you're that someone. When writing code, everyone starts out with their own style and what they think looks good to them. Throughout my four years in college I have created my own writing style and adopted different habits based on what I've seen others do. Sometimes I wish I could magically format someone's code into something that I can understand. The only way to create code that is understandable is to adapt coding standards.
