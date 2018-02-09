@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: ESLint Expected better code
+title: ESLint\: Expected better code
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-08
 labels:
