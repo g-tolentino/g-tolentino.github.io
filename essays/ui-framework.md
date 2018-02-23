@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title:  
+title: Rebuilding with Semantic UI 
 # All dates must be YYYY-MM-DD format!
 date: 2018-02-22
 labels:
