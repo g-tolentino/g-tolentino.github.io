@@ -22,7 +22,7 @@ A professor once told me, "programming is like creating a bunch of lego pieces a
 ## Using Blocks In JavaScript
 
 <center>
-  <div class="ui small right floated image">
+  <div class="ui medium right floated image">
     <img class="ui image" src="../images/legoHouse.png">
   </div>
 </center>
