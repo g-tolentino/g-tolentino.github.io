@@ -8,7 +8,7 @@ labels:
   - Design Patterns
 ---
 
-## Creating A Lego Block
+## Creating a Lego Block
 
 <center>
   <div class="ui small right floated image">
@@ -27,9 +27,12 @@ A professor once told me, "programming is like creating a bunch of lego pieces a
   </div>
 </center>
 
-There a three different types of design patterns: structural, creational, and behavioral. Structural patterns identify a simple way to show a relationship between classes or objects. Creational patterns make it easier to create objects that will help the situation. A behavioral pattern is used to make objects and classes easily communicate with each other. 
+Just like the lego house on the right, there a three different types of design patterns: structural (the foundation of the house), creational (bushes, trees, and flowers), and behavioral (doors, windows, and garage). Structural patterns identify a simple way to show a relationship between classes or objects. Creational patterns make it easier to create objects that will help the situation. A behavioral pattern is used to make objects and classes easily communicate with each other.
 
-Using the blocks to create a "lego building"
-doors are behavioral 
-structureal and 
-creationsal
+## Using the Lego Blocks
+
+The underscore library provides programmers with functions that they can reuse over and over in multiple programs. These are blocks have similar structures, but can produce different outcomes based on the function passed to the underscore function. One of functions that I have used many times is the "map" function. This function is an example of a behavioral pattern and specifically, an iterator. This function produces a new array by accessing the elements of a collection and transforming each element based on the function that is passed. 
+
+The map function came in handy when creating my team's final project for our Software Engineering 1 course. For our final project, I used map to accessing each recipe in the recipe collection and print out the ingredients, steps, and dietary restrictions for each recipe. 
+
+
