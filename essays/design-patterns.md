@@ -1,9 +1,13 @@
 ---
 layout: essay
 type: essay
-title: Rebuilding with Semantic UI 
+title: Lego Blocks 
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-01
 labels:
   - Design Patterns
 ---
+
+## Building A Lego Block
+
+A professor once told me, "programming is like creating a bunch of lego pieces and putting them together to create something new."
