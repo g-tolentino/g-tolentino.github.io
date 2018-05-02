@@ -27,7 +27,7 @@ A professor once told me, "programming is like creating a bunch of lego pieces a
   </div>
 </center>
 
-Just like the lego house on the right, there a three different types of design patterns: structural (the foundation of the house), creational (bushes, trees, and flowers), and behavioral (doors, windows, and garage). Structural patterns identify a simple way to show a relationship between classes or objects. Creational patterns make it easier to create objects that will help the situation. A behavioral pattern is used to make objects and classes easily communicate with each other.
+Just like the lego house on the right, there a three different types of blocks: structural (the foundation of the house), creational (bushes, trees, and flowers), and behavioral (doors, windows, and garage). Structural patterns identify a simple way to show a relationship between classes or objects. Creational patterns make it easier to create objects that will help the situation. A behavioral pattern is used to make objects and classes easily communicate with each other.
 
 ## Using the Lego Blocks
 
