@@ -11,3 +11,9 @@ labels:
 ## Building A Lego Block
 
 A professor once told me, "programming is like creating a bunch of lego pieces and putting them together to create something new."
+
+<center>
+  <div class="ui medium right floated rounded image">
+    <img class="ui image" src="../images/lego.png">
+  </div>
+</center>
