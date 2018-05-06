@@ -8,21 +8,24 @@
 
 // Default background color
 body {
-  background-color: #AFCDEA;
+  background-color: #F5F5F5;
 }
 
 // Default menubar color
 .ui.menu {
  // background: lighten(silver, 10%);
-  background: lighten(blue, 40%);
+  background: #283E4A;
 }
 
 // Default home page icon color
 .icon-color {
  // color: darken(silver, 40%);
-  color: lighten(blue, 20%);
+  color: #0077B5;
 }
 
+.ui.card {
+  background: #F2F2F9; 
+}
 
 // Prefer space between list items in screen mode.
 .list-padding {
