@@ -16,4 +16,6 @@ summary: An application that provides students with recipes and connects them wi
 
 overview of the project, what your contributions to the project were, what you learned from this experience
 
-Source: <a href="https://look-n-cook.github.io/"><i class="large github icon "></i>Look 'N' Cook</a>
+Look 'N' Cook is a web application that my team created for our ICS 314 final project. Our goal for this project was to create an application that would provide UH students a way to share their recipes and learn from others. In addition to recipes, vendors such as Foodland, Safeway, and Longs Drugs could create accounts and provide information about  
+
+Visit our <a href="http://look-n-cook.meteorapp.com/#/">website</a> and GitHub page: <a href="https://look-n-cook.github.io/"><i class="large github icon "></i>Look 'N' Cook</a>
