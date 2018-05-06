@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/Android.jpg
+image: images/lnc.png
 title: Tippy the Tip Calculator
 permalink: projects/look-n-cook
 # All dates must be YYYY-MM-DD format!
