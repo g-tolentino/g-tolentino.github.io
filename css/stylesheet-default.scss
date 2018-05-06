@@ -23,8 +23,16 @@ body {
   color: #0077B5;
 }
 
+.ui.button {
+  background: #0077B5; 
+}  
+
 .ui.menu .item {
   color: #ffffffde;
+}  
+
+.ui.menu .active.item {
+  color: #69ccff; 
 }  
 
 .ui.card {
