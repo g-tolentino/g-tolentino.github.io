@@ -21,7 +21,7 @@ The next thing I did was create classes that were inherited from our main class.
 The one thing I liked about this project is that each group was able to add their own creativity and features to their Tamagotchi game. A special feature that I included was the ability to save the Tamagotchi at its current state and continue playing with it at a later time.  
 
 <center> 
-  <div class="ui small rounded images">
+  <div class="ui small right floated rounded images">
     <img class="ui image" src="../images/tama-1.PNG">
     <img class="ui image" src="../images/tama-2.PNG">
     <img class="ui image" src="../images/tama-3.PNG">
