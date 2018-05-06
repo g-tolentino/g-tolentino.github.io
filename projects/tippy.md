@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/android-app.jpg
+image: images/Android.jpg
 title: Tippy the Tip Calculator
 permalink: projects/tippy
 # All dates must be YYYY-MM-DD format!
