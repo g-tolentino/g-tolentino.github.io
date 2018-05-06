@@ -13,7 +13,7 @@ body {
 }
 
 h1 {
-  color: #225069 ;
+  color: #225069;
 } 
 
 h2 {
@@ -63,6 +63,10 @@ h3 {
 
 .ui.card>.content>.header {
   color: #0077B5; 
+}
+
+.ui.cards>.card>.content>.header {
+  color: #225069; 
 }  
 
 // Prefer space between list items in screen mode.
