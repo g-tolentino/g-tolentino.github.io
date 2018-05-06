@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/blueLambda.PNG
+image: images/blueLambda.png
 title: Shaka Scheme Interpreter
 permalink: projects/shakascheme
 # All dates must be YYYY-MM-DD format!
