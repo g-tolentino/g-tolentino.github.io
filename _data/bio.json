@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Glesa Mae Tolentino",
-    "label": "Student",
+    "label": "Computer Engineering Student",
     "picture": "https://raw.githubusercontent.com/g-tolentino/g-tolentino.github.io/master/images/profilePicSquare.jpg",
     "email": "gmtolent@hawaii.edu",
     "phone": "",
@@ -42,6 +42,11 @@
       ]
     },
     {
+      "name": "Web Development",
+      "keywords": [
+      ]
+    },
+    {
       "name": "Virtual Reality",
       "keywords": [
       ]
@@ -56,6 +61,7 @@
         "C++",
         "Java",
         "Javascript",
+        "HTML/CSS",
         "MatLab",
         "Verilog"
       ]
