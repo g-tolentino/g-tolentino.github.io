@@ -9,7 +9,7 @@ date: 2017-08-21
 labels:
   - Android Studio
   - Java
-summary: Android app that captures a picture of the user’s receipt, parses the total, and uses it to calculate the tip.
+summary: Android app that captures a picture of user’s receipt, parses the total, and uses it to calculate the tip.
 ---
 
 <center>
