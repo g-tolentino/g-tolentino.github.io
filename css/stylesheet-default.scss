@@ -28,8 +28,8 @@ body {
   color: white;
 }  
 
-.ui.basic.button {
-  color:  #0077B5; 
+.ui.basic.button .button {
+  color:  #0077B5!important; 
 }  
 
 .ui.menu .item {
@@ -41,7 +41,7 @@ body {
 }  
 
 .ui.menu .active.item {
-  color: #69ccff; 
+  color: #6C8C9D; 
 }  
 
 .ui.card {
