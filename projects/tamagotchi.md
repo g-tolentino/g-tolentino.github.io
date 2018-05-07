@@ -36,5 +36,5 @@ The one thing I liked about this project is that each group was able to add thei
   </div>
 </center>
 
-Source: <a href="https://github.com/g-tolentino/EE205-FinalProject"><i class="large github icon "></i>g-tolentino/EE205-FinalProject</a>
+GitHub Repository: <a href="https://github.com/g-tolentino/EE205-FinalProject"><i class="large github icon "></i>Tamagotchi</a>
 
