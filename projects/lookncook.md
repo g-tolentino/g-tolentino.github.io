@@ -24,4 +24,6 @@ Look 'N' Cook is a web application that my team created for our ICS 314 final pr
 
 As part of the team, I worked on the user interface and making sure that information is being displayed correctly and in a way that is visually appealing. Working off of the simple cards that my partner, Charles Rafael created to test out the recipe collection, I added colors and displayed information about the dietary restriction and creator of each recipe. These cards were used in the home, profile, and search pages. In addition, I was able to link each card to its recipe page which I also took part in creating. 
 
+ <img class="ui medium right floated rounded image" src="../images/lncViewRecipe.PNG">
+
 Visit our <a href="http://look-n-cook.meteorapp.com/#/">website</a> and GitHub page: <a href="https://look-n-cook.github.io/"><i class="large github icon "></i>Look 'N' Cook</a>
