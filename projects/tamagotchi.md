@@ -17,11 +17,8 @@ When I was young, I remember Tamagotchi being the hottest toy around. I never ow
 <center> 
   <div class="ui small right floated rounded images">
     <img class="ui image" src="../images/tama-sleep.PNG">
-    <img class="ui image" src="../images/tama-left.PNG">
     <img class="ui image" src="../images/tama-game.PNG">
-    <img class="ui image" src="../images/tama-scold.PNG">
-    <img class="ui image" src="../images/tama-food.PNG">
-    <img class="ui image" src="../images/tama-save.PNG">
+    <img class="ui image" src="../images/tama-left.PNG">
   </div>
 </center>
 
@@ -29,7 +26,6 @@ The first thing I needed to do was figure out the different types of actions you
 
 <center> 
   <div class="ui small right floated rounded images">
-    <img class="ui image" src="../images/tama-1.PNG">
     <img class="ui image" src="../images/tama-2.PNG">
     <img class="ui image" src="../images/tama-3.PNG">
     <img class="ui image" src="../images/tama-4.PNG">
