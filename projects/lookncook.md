@@ -14,7 +14,7 @@ labels:
 summary: An application that provides students with recipes and connects them with possible vendors around the UH community.
 ---
 
-Being one of the thousands of students who dorm on campus, I am constantly wondering what to cook for lunch or dinner. Sometimes I am searching on the web for hours and just end up cooking a packet of ramen or going out and spending money on take out. To solve this situation, my team created Look 'N' Cook.
+Being one of the thousands of students who dorm on campus, I am constantly wondering what to cook for lunch or dinner. Sometimes I am searching on the web for hours and just end up cooking a packet of ramen or going out and spending money on take out. To solve this situation, <a href="https://jsome635.github.io/">Jacob Somera</a>, <a href="https://cdrafael.github.io/">Charles Rafael</a>, and I created Look 'N' Cook.
  
  <img class="ui medium right floated rounded image" src="../images/lncUserHome.PNG">
   
@@ -22,7 +22,7 @@ Look 'N' Cook is a web application that my team created for our ICS 314 final pr
 
  <img class="ui medium right floated rounded image" src="../images/lncViewRecipe.PNG">
 
-As part of the team, I worked on the user interface and making sure that information is being displayed correctly and in a way that is visually appealing. Working off of the simple cards that my partner, Charles Rafael created to test out the recipe collection, I added colors and displayed information about the dietary restriction and creator of each recipe. These cards were used in the home, profile, and search pages. In addition, I was able to link each card to its recipe page which I also took part in creating. For each recipe page, it displayed the recipe's ingredients and steps. The recipe page also displayed possible vendors that sold the ingredients listed in the recipe. 
+As part of the team, I worked on the user interface and making sure that information is being displayed correctly and in a way that is visually appealing. Working off of the simple cards that my partner, Charles created to test out the recipe collection, I added colors and displayed information about the dietary restriction and creator of each recipe. These cards were used in the home, profile, and search pages. In addition, I was able to link each card to its recipe page which I also took part in creating. For each recipe page, it displayed the recipe's ingredients and steps. The recipe page also displayed possible vendors that sold the ingredients listed in the recipe. 
 
  <img class="ui medium right floated rounded image" src="../images/lncM3Board.PNG">
 
