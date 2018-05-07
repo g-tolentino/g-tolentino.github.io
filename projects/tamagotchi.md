@@ -25,7 +25,7 @@ When I was young, I remember Tamagotchi being the hottest toy around. I never ow
 The first thing I needed to do was figure out the different types of actions you can do with the Tamagotchi. The user could feed, play a game, clean, give medicine, control the lights, and check the Tamagotchi’s health and information. For the feed function, I asked the user to choose between a meal or a snack. The minigame I programmed for the Tamagotchi was a guessing game. The user would guess which way the Tamagotchi was facing, either left or right. If the user won three or more times, it would increase the Tamagotchi’s happiness. The clean function would get rid of the poop that the Tamagotchi created. If the user does not clean it up in time, the Tamagotchi gets sick. To heal the Tamagotchi, the medicine function would determine how much medicines/injections the user would need to give to the Tamagotchi to make it all better. These actions turned out to be functions in my main Tamagotchi class. 
 
 <center> 
-  <div class="ui small right floated rounded images">
+  <div class="ui small rounded images">
     <img class="ui image" src="../images/tama-2.PNG">
     <img class="ui image" src="../images/tama-3.PNG">
     <img class="ui image" src="../images/tama-4.PNG">
