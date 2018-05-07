@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Questioning Questions
+title: I Have A Question!
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-25
 labels:
