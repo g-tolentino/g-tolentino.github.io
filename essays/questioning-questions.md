@@ -18,7 +18,7 @@ When looking at questions on StackOverflow, the first thing users see is a list 
 
 In addition to the subject header and description, the responses demonstrate if the question captured the interest of fellow software engineers. The comments in figure 1 show what the post is missing. They asks for an attempt, provide resources that can be easily found in a search engine, and keywords to search for solutions. Figure 1 also shows that their main issue is syntax, which should have been included in their description. In figure 2, the answers include examples of code and detailed explanations. This shows interest in the question and wanting to help the person understand the problem.  
 
-## Reflecting 
+## My Past Question 
 “How to Ask Questions the Smart Way” made me think about a question that I posted a while back. When I ran my code, I ended up with “segmentation fault.” I could not figure out the problem, so I posted my 100+ lines of code on StackOverflow only to get a comment saying I had a bad question. This resulted in me deleting the question. This article also emphasizes that there are software engineers who are answering questions on their own time and for free. Having smart questions will be a win-win situation for you and the people who want to answer your question. You have a better understanding of your problem and they had a problem that made them think. 
 
 [1] Article: <a href="http://www.catb.org/esr/faqs/smart-questions.html">How To Ask Questions The Smart Way</a>
