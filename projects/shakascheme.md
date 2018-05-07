@@ -17,9 +17,9 @@ summary: Created rules and test cases for variable and boolean for a Scheme inte
 
 Entering this project, I had very little experience with programming. So I decided to join the Design/Testing team. We started the semester by researching regular language and Backus-Naur Form (BNF). After a couple of weeks of research and trying to understand BNF and regular language, I was moved to the Parsing/IO team. 
 
-<img class="ui medium right floated rounded image" src="../images/shakascheme-2.png">
-
 As part of the Parsing/IO team, I used what I learned about BNF and regular language to parse code and create rules for variable and boolean. In addition to coding rules for variable and boolean, I created test cases with Google Test to make sure my rules were producing the correct results.  
+
+<img class="ui medium right floated rounded image" src="../images/shakascheme-2.png">
 
 <img class="ui medium right floated rounded image" src="../images/shakascheme-4.png">
 
