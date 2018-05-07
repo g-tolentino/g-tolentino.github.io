@@ -49,9 +49,9 @@ h3 {
   color: #ffffffde;
 }  
 
-.ui.menu .item hover {
-  color: #ffffffde;
-}  
+.ui.menu .item:hover a {
+    color: #ffffffde;
+}
 
 .ui.menu .active.item {
   color: #6C8C9D; 
