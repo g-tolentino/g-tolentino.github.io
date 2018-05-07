@@ -19,10 +19,10 @@ overview of the project, what your contributions to the project were, what you l
 Being one of the thousands of students who dorm on campus, I am constantly wondering what to cook for lunch or dinner. Sometimes I am searching on the web for hours and just end up cooking a packet of ramen or going out and spending money on take out. To solve this situation, my team created Look 'N' Cook.
  
  <img class="ui medium right floated rounded image" src="../images/lncUserHome.PNG">
- 
- <img class="ui medium right floated rounded image" src="../images/lncViewRecipe.PNG">
- 
+  
 Look 'N' Cook is a web application that my team created for our ICS 314 final project. Our goal for this project was to create an application that would provide UH students a way to share their recipes and learn from others. In addition to recipes, vendors such as Foodland, Safeway, and Longs Drugs could create accounts and provide information about the products/ingredients that they have available for purchase.
+
+ <img class="ui medium right floated rounded image" src="../images/lncViewRecipe.PNG">
 
 As part of the team, I worked on the user interface and making sure that information is being displayed correctly and in a way that is visually appealing. Working off of the simple cards that my partner, Charles Rafael created to test out the recipe collection, I added colors and displayed information about the dietary restriction and creator of each recipe. These cards were used in the home, profile, and search pages. In addition, I was able to link each card to its recipe page which I also took part in creating. 
 
