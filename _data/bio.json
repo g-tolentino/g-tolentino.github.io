@@ -62,6 +62,7 @@
         "Java",
         "Javascript",
         "HTML/CSS",
+        "Semantic UI",
         "MatLab",
         "Verilog"
       ]
@@ -89,6 +90,7 @@
       "endDate": "Present",
       "gpa": "3.33",
       "courses": [
+        "Computer Data Structure & Algorithms",
         "Digital Systems and Computer Design",
         "Discrete Mathematics",
         "Linear Algebra and Differential Equations",
