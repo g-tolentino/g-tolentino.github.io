@@ -15,7 +15,7 @@ summary: Implementing a simple Tamagotchi game for my EE205 final project.
 When I was young, I remember Tamagotchi being the hottest toy around. I never owned one, but my cousins did, so I would “tamagotchi sit” theirs. As soon as I found out that one of our final projects for EE205 was to recreate Tamagotchi, I started to brainstorm how to implement what I learned about object oriented programming to the project. 
 
 <center> 
-  <div class="ui small right floated rounded images">
+  <div class="ui small rounded images">
     <img class="ui image" src="../images/tama-sleep.PNG">
     <img class="ui image" src="../images/tama-game.PNG">
     <img class="ui image" src="../images/tama-left.PNG">
