@@ -21,9 +21,9 @@ As part of the Parsing/IO team, I used what I learned about BNF and regular lang
 
 <img class="ui medium right floated rounded image" src="../images/shakascheme-2.png">
 
-<img class="ui medium right floated rounded image" src="../images/shakascheme-4.png">
-
 Being a part of this project helped me better understand programming languages and their syntax, the concept of parsing, and working with a big team. Having documents like R7RS, helped me create rules for variable and boolean without having a lot of experience with programming in Scheme. Also, working with a big team which consisted of sophomores, juniors, and seniors, it gave me the chance to see their coding habits and how they would tackle a problem.
+
+<img class="ui medium right floated rounded image" src="../images/shakascheme-4.png">
 
 GitHub Repository: <a href="https://github.com/uhmanoa-transpiler-project/shaka-scheme"><i class="large github icon "></i>Shaka Scheme</a>
 
