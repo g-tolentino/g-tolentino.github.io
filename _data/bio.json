@@ -28,22 +28,19 @@
     ]
   },
   "interests": [
+    {
+      "name": "App/Web Development",
+      "keywords": [
+        "Android Studio",
+        "Semantic UI React"
+      ]
+    },
     { 
       "name": "Robotics",
       "keywords": [
         "FIRST",
         "FRC", 
         "VEX"
-      ]
-    },
-    {
-      "name": "App Development",
-      "keywords": ["Android Studio"
-      ]
-    },
-    {
-      "name": "Web Development",
-      "keywords": [
       ]
     },
     {
