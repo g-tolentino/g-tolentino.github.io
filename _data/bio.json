@@ -59,12 +59,11 @@
       "keywords": [
         "C",
         "C++",
+        "C#",
         "Java",
         "Javascript",
         "HTML/CSS",
-        "Semantic UI",
-        "MatLab",
-        "Verilog"
+        "Semantic UI"
       ]
     },
     {
@@ -72,11 +71,7 @@
       "level": "",
       "keywords": [
         "Android Studio",
-        "g++",
         "Git/GitHub",
-        "Google Test",
-        "MinGW",
-        "Vivado",
         "Windows"
       ]
     }
@@ -88,13 +83,12 @@
       "studyType": "B.S.",
       "startDate": "2016-08",
       "endDate": "Present",
-      "gpa": "3.33",
+      "gpa": "3.34",
       "courses": [
-        "Computer Data Structure & Algorithms",
-        "Digital Systems and Computer Design",
-        "Discrete Mathematics",
-        "Linear Algebra and Differential Equations",
-        "Object Oriented Programming"
+        "Intro to C Programming",
+        "Object Oriented Programming with C++",
+        "Intro to Game Development and Design with C# and Unity",
+        "Data Structures and Algorithms"
       ]
     },
     {
@@ -105,11 +99,21 @@
       "endDate": "2016-05",
       "gpa": "3.64",
       "courses": [ 
-        "Intro to Computer Science I"
+        "Intro to Computer Science with Java"
       ]
     }
   ],
   "work": [
+     {
+      "company": "Maui Economic Development Board Inc. (MEDB)",
+      "position": "STEMworks Intern",
+      "website": "",
+      "startDate": "2018-07",
+      "endDate": "2018-08",
+      "summary": "Updated website to provide information about the STEMworks Summer internship program. Created content for weekly newsletters, program booklet, and STEMworks Internship Showcase. ",
+      "highlights": ["Worked with tools such as WordPress, Photoshop, Illustrator, and Indesign."
+      ]
+    },
     {
       "company": "Maui Economic Development Board Inc. (MEDB)",
       "position": "IT Support",
